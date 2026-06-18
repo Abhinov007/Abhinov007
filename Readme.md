@@ -49,48 +49,77 @@
 - Built projects like **Redis Clone**, **BitTorrent Client**, **AI RAG Messenger**, and **ColabDraw**.
 - Interested in distributed systems, databases, backend engineering, and fullstack product development.
 
----
-
-### Featured Projects
-
-#### Redis Clone
-A Redis-compatible server built from scratch with protocol-level features.
-
-- RESP protocol parser
-- Key-value operations
-- Persistence
-- Replication
-- Pub/Sub
-- Transactions
-
-#### BitTorrent Client
-A BitTorrent-style client with networking and peer discovery.
-
-- Torrent metadata parsing
-- Magnet link support
-- DHT peer discovery
-- Piece verification
-- Realtime download stats
-
-#### AI RAG Messenger
-A privacy-focused AI messenger with local/offline AI support.
-
-- React Native app
-- RAG-based chat
-- Local storage
-- Supabase sync
-- Offline-first architecture
-
-#### ColabDraw
-A realtime collaborative whiteboard app.
-
-- WebSocket-based collaboration
-- Shared rooms
-- JWT auth
-- PostgreSQL persistence
-- Role-based access
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔴 Redis Clone</h3>
+      <p align="center">
+        <a href="https://github.com/Abhinov007/redis_clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinov007&repo=redis_clone&theme=tokyonight" />
+        </a>
+      </p>
+      <p>
+        A Redis-compatible server built from scratch with protocol-level features like RESP parsing, persistence, replication, Pub/Sub, and transactions.
+      </p>
+      <p>
+        <b>Tech:</b> Node.js, TCP, RESP, JavaScript
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧲 BitTorrent Client</h3>
+      <p align="center">
+        <a href="https://github.com/Abhinov007/BitTorrent_Clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinov007&repo=BitTorrent_Clone&theme=tokyonight" />
+        </a>
+      </p>
+      <p>
+        A BitTorrent-style client with peer discovery, magnet link support, torrent parsing, SHA1 piece verification, and realtime download stats.
+      </p>
+      <p>
+        <b>Tech:</b> Node.js, Express, React, Vite, TCP, DHT
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI RAG Messenger</h3>
+      <p align="center">
+        <a href="https://github.com/Abhinov007/AI-Rag-Messenger">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinov007&repo=AI-Rag-Messenger&theme=tokyonight" />
+        </a>
+      </p>
+      <p>
+        A privacy-focused AI messenger with local/offline AI support, RAG-based chat, Supabase sync, and mobile-first architecture.
+      </p>
+      <p>
+        <b>Tech:</b> React Native, TypeScript, Supabase, Clerk, SQLite
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 ColabDraw</h3>
+      <p align="center">
+        <a href="https://github.com/Abhinov007/Colab-Draw">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinov007&repo=Colab-Draw&theme=tokyonight" />
+        </a>
+      </p>
+      <p>
+        A realtime collaborative whiteboard app with shared rooms, WebSocket sync, JWT auth, PostgreSQL persistence, and role-based access.
+      </p>
+      <p>
+        <b>Tech:</b> Next.js, React, Node.js, WebSockets, Prisma, PostgreSQL
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 ### GitHub Stats
 
@@ -105,4 +134,4 @@ A realtime collaborative whiteboard app.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinov007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-```
+
